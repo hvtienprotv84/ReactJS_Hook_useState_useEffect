@@ -13,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Huỳnh Vĩnh Tiến - Hook - useState
+          Huỳnh Vĩnh Tiến - Hook - useState - useEffect
         </a>
         <Example />
       </header>

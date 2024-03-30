@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactJS_Hook_useState_useEffect/static/css/main.ad814937.chunk.css",
+    "main.js": "/ReactJS_Hook_useState_useEffect/static/js/main.42413488.chunk.js",
+    "main.js.map": "/ReactJS_Hook_useState_useEffect/static/js/main.42413488.chunk.js.map",
+    "runtime-main.js": "/ReactJS_Hook_useState_useEffect/static/js/runtime-main.6ddafbcb.js",
+    "runtime-main.js.map": "/ReactJS_Hook_useState_useEffect/static/js/runtime-main.6ddafbcb.js.map",
+    "static/js/2.ec39e982.chunk.js": "/ReactJS_Hook_useState_useEffect/static/js/2.ec39e982.chunk.js",
+    "static/js/2.ec39e982.chunk.js.map": "/ReactJS_Hook_useState_useEffect/static/js/2.ec39e982.chunk.js.map",
+    "index.html": "/ReactJS_Hook_useState_useEffect/index.html",
+    "precache-manifest.461b351f2480a5243396a7ca61224ee2.js": "/ReactJS_Hook_useState_useEffect/precache-manifest.461b351f2480a5243396a7ca61224ee2.js",
+    "service-worker.js": "/ReactJS_Hook_useState_useEffect/service-worker.js",
+    "static/css/main.ad814937.chunk.css.map": "/ReactJS_Hook_useState_useEffect/static/css/main.ad814937.chunk.css.map",
+    "static/js/2.ec39e982.chunk.js.LICENSE.txt": "/ReactJS_Hook_useState_useEffect/static/js/2.ec39e982.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ReactJS_Hook_useState_useEffect/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ddafbcb.js",
+    "static/js/2.ec39e982.chunk.js",
+    "static/css/main.ad814937.chunk.css",
+    "static/js/main.42413488.chunk.js"
+  ]
+}
