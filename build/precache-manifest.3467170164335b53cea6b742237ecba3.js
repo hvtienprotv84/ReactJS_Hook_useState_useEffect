@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2dd0f81225fadd40dcc3908ee79befde",
+    "revision": "a03ecdcaea500203d88e01ebff50c71f",
     "url": "/ReactJS_Hook_useState_useEffect/index.html"
   },
   {
-    "revision": "2670198dc82f60d03232",
+    "revision": "cf53f4f433ec2a968bab",
     "url": "/ReactJS_Hook_useState_useEffect/static/css/main.ad814937.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ReactJS_Hook_useState_useEffect/static/js/2.ec39e982.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2670198dc82f60d03232",
-    "url": "/ReactJS_Hook_useState_useEffect/static/js/main.42413488.chunk.js"
+    "revision": "cf53f4f433ec2a968bab",
+    "url": "/ReactJS_Hook_useState_useEffect/static/js/main.30e2bb42.chunk.js"
   },
   {
     "revision": "21a83afed1fe141ded94",

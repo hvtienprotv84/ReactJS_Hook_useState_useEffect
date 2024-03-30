@@ -23,7 +23,7 @@ function App() {
 function Example() {
   const [count, setCount] = useState(0);
   useEffect(() => {
-    document.title = `You clicked ${count} times`;
+    document.title = `Bạn Đã Nhấp ${count} Lần`;
   });
   return (
     <div>
